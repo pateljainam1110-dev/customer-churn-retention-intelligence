@@ -38,6 +38,12 @@ Failed payments, low product usage, low CSAT, month-to-month contracts, high sup
 
 The project combines **churn probability + revenue exposure** to prioritize customers for retention.
 
+## Power BI Dashboard
+
+The dashboard brings the analysis together into an actionable retention view, combining churn performance, customer risk, and revenue exposure.
+
+![Customer Churn & Retention Dashboard]("C:\Users\patel\Downloads\customer_churn_dashboard_inr.png")
+
 ## Project Files
 
 - `customer_churn_retention_intelligence.ipynb` — Complete analysis
